@@ -1,0 +1,112 @@
+{
+  "criteres": [
+    {
+      "numero": 1,
+      "titre": "Conditions d'information du public",
+      "indicateurs": [
+        {
+          "numero": "1.1",
+          "description": "Information du public sur les prestations proposées",
+          "mots_cles": ["programme", "formation", "objectifs", "public visé", "prérequis", "modalités"],
+          "preuves_attendues": ["programme de formation", "plaquette", "site internet", "fiche formation"]
+        },
+        {
+          "numero": "1.2",
+          "description": "Information sur les délais d'accès",
+          "mots_cles": ["délai", "accès", "inscription", "entrée en formation"],
+          "preuves_attendues": ["délais d'accès publiés", "procédure d'inscription"]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titre": "Identification des objectifs",
+      "indicateurs": [
+        {
+          "numero": "2.1",
+          "description": "Analyse du besoin du bénéficiaire",
+          "mots_cles": ["besoin", "analyse", "positionnement", "diagnostic", "entretien"],
+          "preuves_attendues": ["fiche de positionnement", "entretien préalable", "analyse de besoin"]
+        },
+        {
+          "numero": "2.2",
+          "description": "Objectifs de la prestation adaptés au bénéficiaire",
+          "mots_cles": ["objectifs pédagogiques", "compétences", "savoirs", "savoir-faire"],
+          "preuves_attendues": ["programme personnalisé", "objectifs pédagogiques détaillés"]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titre": "Adaptation aux bénéficiaires",
+      "indicateurs": [
+        {
+          "numero": "3.1",
+          "description": "Mise en œuvre pédagogique adaptée",
+          "mots_cles": ["pédagogie", "méthodes", "supports", "exercices", "évaluation"],
+          "preuves_attendues": ["supports pédagogiques", "feuilles de présence", "évaluations"]
+        },
+        {
+          "numero": "3.2",
+          "description": "Accompagnement du bénéficiaire",
+          "mots_cles": ["accompagnement", "suivi", "formateur", "tuteur"],
+          "preuves_attendues": ["livret de suivi", "compte-rendu de suivi"]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titre": "Adéquation des moyens",
+      "indicateurs": [
+        {
+          "numero": "4.1",
+          "description": "Coordination et intervention des personnels",
+          "mots_cles": ["formateur", "CV", "compétences", "expérience", "qualifications"],
+          "preuves_attendues": ["CV formateurs", "contrats", "fiches de poste"]
+        },
+        {
+          "numero": "4.2",
+          "description": "Moyens techniques et pédagogiques",
+          "mots_cles": ["salle", "matériel", "équipement", "ressources", "locaux"],
+          "preuves_attendues": ["inventaire matériel", "photos locaux", "contrats de location"]
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titre": "Qualification des formateurs",
+      "indicateurs": [
+        {
+          "numero": "5.1",
+          "description": "Compétences des formateurs",
+          "mots_cles": ["diplôme", "certification", "expérience professionnelle", "formation"],
+          "preuves_attendues": ["diplômes", "certifications", "expériences professionnelles"]
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "titre": "Inscriptions dans l'environnement",
+      "indicateurs": [
+        {
+          "numero": "6.1",
+          "description": "Veille légale et réglementaire",
+          "mots_cles": ["veille", "réglementation", "loi", "mise à jour"],
+          "preuves_attendues": ["tableau de veille", "compte-rendu de réunion"]
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "titre": "Recueil des appréciations",
+      "indicateurs": [
+        {
+          "numero": "7.1",
+          "description": "Recueil des appréciations des bénéficiaires",
+          "mots_cles": ["satisfaction", "questionnaire", "évaluation", "retour", "avis"],
+          "preuves_attendues": ["questionnaire de satisfaction", "résultats satisfaction"]
+        }
+      ]
+    }
+  ]
+}
